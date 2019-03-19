@@ -14,5 +14,5 @@ http://www.jazdosanjh.com/weather-checker
 * CSS3 (Bootstrap)
 * JavaScript (React.js)
 
-## Ackknowledgement
+## Acknowledgement
 This project was inspired by Hamza Mirza. I've always wanted to have a look at React.js, and how it interacts with API's as well as the DOM. This was a great project to gain basic exposure to React.js.
